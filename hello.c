@@ -1,5 +1,6 @@
 #include<studio.h>
 main()
 {
-printf('hello world')
+printf('hello world');
+  print('bye bye')
 }
