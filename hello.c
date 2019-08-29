@@ -2,5 +2,4 @@
 main()
 {
 printf('hello world');
-  print('bye bye')
 }
